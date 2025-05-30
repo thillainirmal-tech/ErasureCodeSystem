@@ -75,9 +75,6 @@ git clone https://github.com/thillainirmal-tech/ErasureCodeSystem.git
 - Simulate data loss and attempt to recover using decoding functions.
 - View logs and results.
 
-## Screenshots
-
-_Add screenshots of the application interface here._
 
 ## Database Setup
 
